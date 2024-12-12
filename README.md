@@ -1,4 +1,5 @@
-Sales Dashboard Project
+#Sales Dashboard Project
+
 Overview
 This repository contains a comprehensive Sales Dashboard created to analyze sales data and provide actionable insights for improved business performance. The dashboard leverages advanced tools and techniques such as Pivot Tables, Power Pivot, and connected datasets to deliver a dynamic and interactive experience.
 
